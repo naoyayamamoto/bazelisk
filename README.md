@@ -1,0 +1,2 @@
+# bazelisk
+Bazelisk docker image
